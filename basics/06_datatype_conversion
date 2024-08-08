@@ -1,0 +1,27 @@
+// let x = "45"
+// console.log(typeof x);
+
+// let y=Number(x)
+// console.log(typeof y)
+
+// let p = "45abc"
+// console.log(typeof p);
+
+// let q=Number(p)
+// console.log(typeof q)
+
+// console.log(q); // gives wrong answer as "45abc " cannot be converted but 
+//  also js gives type of q is number which is an error in js
+
+/*
+let y=1
+let z=Boolean(y)
+console.log(z)
+
+=> its gives 1 as true
+=> its gives 0 as false
+=> its gives " " as false
+=> its gives " anshu" as true
+
+
+*/
